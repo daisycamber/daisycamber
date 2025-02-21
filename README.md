@@ -13,6 +13,6 @@ I am a Python and Linux developer living in Seattle Washington fluent in a multi
 - 👯 I’m looking to collaborate on full stack projects
 - 🤔 I’m looking for help with things I'm stuck on
 - 💬 Ask me about Linux
-- 📫 How to reach me: ![Glam Girl X - Cointact](https://glamgirlx.com)
+- 📫 How to reach me: ![Glam Girl X - Contact](https://glamgirlx.com)
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: I like to base jump
