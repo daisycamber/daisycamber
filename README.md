@@ -1,8 +1,8 @@
 ## Hi there 👋
 ### My name is Charlotte Harper
-[![Visit my Website](https://img.shields.io/badge/Visit_my_website)](https://glamgirlx.com)
-![Static Badge](https://img.shields.io/badge/Open_Source_-_❤️)
-![Static Badge](https://img.shields.io/badge/Full_Stack_-_Linux)
+![Visit my Website](https://img.shields.io/badge/Visit_my_website-blue)(https://glamgirlx.com)
+![Static Badge](https://img.shields.io/badge/Open_Source_❤️-blue)
+![Static Badge](https://img.shields.io/badge/Full_Stack_Linux-green)
 I am a Python and Linux developer living in Seattle Washington fluent in a multitude of languages relevant to full stack. I build full stack websites and website generation engines using open source.
 
 - 🔭 I’m currently working on open-source Python full-stack software
