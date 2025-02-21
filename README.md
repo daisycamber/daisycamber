@@ -1,5 +1,5 @@
 ## Hi there 👋
-### My name is Charlotte Harper
+### My name is Charlotte Harper. Welcome to my GitHub.
 [![Landing Page](https://img.shields.io/badge/Landing_Page-purple)](https://lotteh.com/landing/)
 [![Visit my Website](https://img.shields.io/badge/Visit_my_website-blue)](https://glamgirlx.com)
 [![Static Badge](https://img.shields.io/badge/Open_Source_❤️-blue)
