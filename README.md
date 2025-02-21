@@ -1,9 +1,9 @@
 ## Hi there 👋
 ### My name is Charlotte Harper
 [![Visit my Website](https://img.shields.io/badge/Visit_my_website-blue)](https://glamgirlx.com)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2225373/charlotte-harper)
 [![Static Badge](https://img.shields.io/badge/Open_Source_❤️-blue)
 ![Static Badge](https://img.shields.io/badge/Full_Stack_Linux-green)](https://github.com/daisycamber/lotteharper)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2225373/charlotte-harper)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
