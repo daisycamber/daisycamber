@@ -1,5 +1,6 @@
 ## Hi there 👋
 ### My name is Charlotte Harper
+[![Landing Page](https://img.shields.io/badge/Landing_Page-purple)](https://lotteh.com/landing/)
 [![Visit my Website](https://img.shields.io/badge/Visit_my_website-blue)](https://glamgirlx.com)
 [![Static Badge](https://img.shields.io/badge/Open_Source_❤️-blue)
 ![Static Badge](https://img.shields.io/badge/Full_Stack_Linux-green)](https://github.com/daisycamber/lotteharper)
