@@ -21,3 +21,10 @@ I am a Python and Linux developer living in Seattle Washington fluent in a multi
 - 📫 How to reach me: [![✉️Contact Me](https://img.shields.io/badge/✉️Contact_Me-red)](https://glamgirlx.com/contact)
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: I like to base jump
+
+### Thank you!
+__Thank you for your interest in my projects!__
+- Charlotte Harper (Daisy)
+
+![A photo from my website](https://i.imgur.com/dAQRaWt.jpeg)
+__xoxo <3__
