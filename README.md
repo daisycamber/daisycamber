@@ -2,7 +2,7 @@
 ### My name is Charlotte Harper
 [![Visit my Website](https://img.shields.io/badge/Visit_my_website-blue)](https://glamgirlx.com)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2225373/charlotte-harper)
-![Static Badge](https://img.shields.io/badge/Open_Source_❤️-blue)
+![![Static Badge](https://img.shields.io/badge/Open_Source_❤️-blue)
 ![Static Badge](https://img.shields.io/badge/Full_Stack_Linux-green)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
@@ -42,7 +42,7 @@
 ![PyPI Badge](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff&style=for-the-badge)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 ![Google Badge](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)
-![Nike Badge](https://img.shields.io/badge/Nike-111?logo=nike&logoColor=fff&style=for-the-badge)
+![Nike Badge](https://img.shields.io/badge/Nike-111?logo=nike&logoColor=fff&style=for-the-badge)](https://glamgirlx.com)
 
 
 
