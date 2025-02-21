@@ -49,9 +49,9 @@
 
 I am a Python and Linux developer living in Seattle Washington fluent in a multitude of languages relevant to full stack. I build full stack websites and website generation engines using open source.
 
-- 🔭 I’m currently working on open-source Python full-stack software
-- 🌱 I’m currently learning about data security
-- 👯 I’m looking to collaborate on full stack projects
+- 🔭 I’m currently working on building open-source Python full-stack software
+- 🌱 I’m currently learning about data security and witchcraft
+- 👯 I’m looking to collaborate on full-stack projects
 - 🤔 I’m looking for help with things I'm stuck on
 - 💬 Ask me about Linux
 - 📫 How to reach me: [![✉️Contact Me](https://img.shields.io/badge/✉️Contact_Me-red)](https://glamgirlx.com/contact)
