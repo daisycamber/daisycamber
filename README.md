@@ -30,11 +30,20 @@
 ![Nordic Semiconductor](https://img.shields.io/badge/Nordic%20Semiconductor-00A9CE.svg?style=for-the-badge&logo=Nordic-Semiconductor&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/bitcoin-2F3134?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![NiceHash Badge](https://img.shields.io/badge/NiceHash-FBC342?logo=nicehash&logoColor=000&style=for-the-badge)
+![Coinbase Badge](https://img.shields.io/badge/Coinbase-0052FF?logo=coinbase&logoColor=fff&style=for-the-badge)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff)
+![Square Badge](https://img.shields.io/badge/Square-3E4348?logo=square&logoColor=fff&style=for-the-badge)
+![Dovecot Badge](https://img.shields.io/badge/Dovecot-54BCAB?logo=dovecot&logoColor=fff&style=for-the-badge)
+![PyPI Badge](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff&style=for-the-badge)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![Google Badge](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)
+![Nike Badge](https://img.shields.io/badge/Nike-111?logo=nike&logoColor=fff&style=for-the-badge)
+
 
 
 I am a Python and Linux developer living in Seattle Washington fluent in a multitude of languages relevant to full stack. I build full stack websites and website generation engines using open source.
