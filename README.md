@@ -17,7 +17,6 @@
 ![Ionos Badge](https://img.shields.io/badge/Ionos-003D8F?logo=ionos&logoColor=fff&style=for-the-badge)
 ![Adafruit Badge](https://img.shields.io/badge/Adafruit-000?logo=adafruit&logoColor=fff&style=for-the-badge)
 ![Arduino Badge](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge)
-![PyPI Badge](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff&style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
