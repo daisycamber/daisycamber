@@ -3,7 +3,7 @@
 [![Landing Page](https://img.shields.io/badge/Landing_Page-purple)](https://lotteh.com/landing/)
 [![Visit my Website](https://img.shields.io/badge/Visit_my_website-blue)](https://glamgirlx.com)
 [![Static Badge](https://img.shields.io/badge/Open_Source_❤️-pink)
-![Static Badge](https://img.shields.io/badge/Full-Stack_Linux-green)](https://github.com/daisycamber/lotteharper)
+![Static Badge](https://img.shields.io/badge/Full\-Stack-Linux-green)](https://github.com/daisycamber/lotteharper)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2225373/charlotte-harper)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
