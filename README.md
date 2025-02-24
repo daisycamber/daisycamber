@@ -51,7 +51,7 @@
 
 
 
-I am a Python and Linux developer living in Seattle Washington fluent in a multitude of languages relevant to full stack. I build full stack websites and website generation engines using open source.
+I am a web developer focusing on Python and Linux living in Seattle Washington fluent in a multitude of languages relevant to full stack. I build full stack websites and website generation engines using open source.
 
 - 🔭 I’m currently working on building open-source Python full-stack software
 - 🌱 I’m currently learning about data security and witchcraft
