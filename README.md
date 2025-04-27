@@ -62,12 +62,13 @@ I am a web developer focusing on Python and Linux living in Seattle Washington f
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: I like to base jump
 
+__Watch my video intro on YouTube >__
+[![Watch my video intro](https://img.youtube.com/vi/1b79ArshiHI/0.jpg)](https://www.youtube.com/watch?v=1b79ArshiHI)
+
 ### Thank you!
 __Thank you for your interest in my projects!__
 - Charlotte Harper (Daisy)
 
-__Watch my video intro on YouTube >__
-[![Watch my video intro](https://img.youtube.com/vi/1b79ArshiHI/0.jpg)](https://www.youtube.com/watch?v=1b79ArshiHI)
+[![A photo from my website](https://i.imgur.com/dAQRaWt.jpeg)](https://glamgirlx.com)
 
-![A photo from my website](https://i.imgur.com/dAQRaWt.jpeg)
 __xoxo <3__
