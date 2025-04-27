@@ -67,6 +67,7 @@ __Thank you for your interest in my projects!__
 - Charlotte Harper (Daisy)
 
 __Watch my video intro on YouTube >__
-<iframe width="100%" height="auto" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/1b79ArshiHI?si=uLrvuAGwvt34_FCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch my video intro](https://img.youtube.com/vi/1b79ArshiHI/0.jpg)](https://www.youtube.com/watch?v=1b79ArshiHI)
+
 ![A photo from my website](https://i.imgur.com/dAQRaWt.jpeg)
 __xoxo <3__
