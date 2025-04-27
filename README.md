@@ -69,6 +69,7 @@ __Watch my video intro on YouTube >__
 __Thank you for your interest in my projects!__
 - Charlotte Harper (Daisy)
 
+__Click the image below to visit my website >__
 [![A photo from my website](https://i.imgur.com/dAQRaWt.jpeg)](https://glamgirlx.com)
 
 __xoxo <3__
