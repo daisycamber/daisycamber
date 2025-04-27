@@ -66,5 +66,7 @@ I am a web developer focusing on Python and Linux living in Seattle Washington f
 __Thank you for your interest in my projects!__
 - Charlotte Harper (Daisy)
 
+__Watch my video intro on YouTube >__
+<iframe width="100%" height="auto" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/1b79ArshiHI?si=uLrvuAGwvt34_FCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ![A photo from my website](https://i.imgur.com/dAQRaWt.jpeg)
 __xoxo <3__
