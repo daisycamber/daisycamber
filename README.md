@@ -113,7 +113,6 @@
 ![Linux Foundation Badge](https://img.shields.io/badge/Linux%20Foundation-003778?logo=linuxfoundation&logoColor=fff&style=for-the-badge)
 ![LMMS Badge](https://img.shields.io/badge/LMMS-10B146?logo=lmms&logoColor=fff&style=for-the-badge)
 ![NXP Badge](https://img.shields.io/badge/NXP-000?logo=nxp&logoColor=fff&style=for-the-badge)
-![NXP Badge](https://img.shields.io/badge/NXP-000?logo=nxp&logoColor=fff&style=for-the-badge)
 ![OpenAI Badge](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge)
 ![scikit-learn Badge](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=for-the-badge)
 ![Sentry Badge](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=fff&style=for-the-badge)
