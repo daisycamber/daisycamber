@@ -84,7 +84,6 @@
 ![Fitbit Badge](https://img.shields.io/badge/Fitbit-00B0B9?logo=fitbit&logoColor=fff&style=for-the-badge)
 ![GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=fff&style=for-the-badge)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
-![GitHub Pages Badge](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=for-the-badge)
 ![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=for-the-badge)
 ![Google AdSense Badge](https://img.shields.io/badge/Google%20AdSense-4285F4?logo=googleadsense&logoColor=fff&style=for-the-badge)
 ![Google Analytics Badge](https://img.shields.io/badge/Google%20Analytics-E37400?logo=googleanalytics&logoColor=fff&style=for-the-badge)
