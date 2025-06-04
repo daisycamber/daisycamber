@@ -123,6 +123,7 @@
 ![United Nations Badge](https://img.shields.io/badge/United%20Nations-009EDB?logo=unitednations&logoColor=fff&style=for-the-badge)
 ![United Nations Badge](https://img.shields.io/badge/United%20Nations-009EDB?logo=unitednations&logoColor=fff&style=for-the-badge)
 ![WebAuthn Badge](https://img.shields.io/badge/WebAuthn-3423A6?logo=webauthn&logoColor=fff&style=for-the-badge)
+![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge)
 ![X Badge](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge)
 ![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge)
 
