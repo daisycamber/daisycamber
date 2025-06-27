@@ -140,8 +140,9 @@ I am a web developer focusing on Python and Linux living in Seattle Washington f
 
 __Watch my video intro on YouTube >__
 [![Watch my video intro](https://img.youtube.com/vi/1b79ArshiHI/0.jpg)](https://www.youtube.com/watch?v=1b79ArshiHI)
+
 __Watch my video playlist on YouTube >__
-[![See my YouTube playlist recorded about my projects, largely using software I built](https://img.youtube.com/vi/1b79ArshiHI/0.jpg)](https://www.youtube.com/watch?v=4ME4TEzJa1k&list=PLM98ZFiLn-FGjYm-RNKteBj0YpNXNjZFR)
+[![See my YouTube playlist recorded about my projects, largely using software I built](https://img.youtube.com/vi/LzVBpadQT1U/0.jpg)](https://www.youtube.com/watch?v=4ME4TEzJa1k&list=PLM98ZFiLn-FGjYm-RNKteBj0YpNXNjZFR)
 
 ### Thank you!
 __Thank you for your interest in my projects!__
