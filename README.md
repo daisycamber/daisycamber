@@ -124,10 +124,11 @@
 ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge)
 ![X Badge](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge)
 ![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge)
+![NATO-OTAN Badge](https://glamgirlx.com/media/static/NATO-OTAN-small.JPG)
 
 
 
-I am a web developer focusing on Python and Linux living in Seattle Washington fluent in a multitude of languages relevant to full stack. I build full stack websites and website generation engines using open source.
+I am a web developer focusing on Python and Linux full stack and IaaS (Internet as a Service) living in Seattle Washington fluent in a multitude of languages relevant to full stack. I build full stack websites and website generation engines using open source.
 
 - 🔭 I’m currently working on building open-source Python full-stack software
 - 🌱 I’m currently learning about data security, cosmetics, and witchcraft
