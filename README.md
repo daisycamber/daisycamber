@@ -128,6 +128,7 @@
 ![NASA Badge](https://glamgirlx.com/media/static/NASA-small.png)
 ![FBI Badge](https://glamgirlx.com/media/static/FBI-small.svg.png)
 ![NATO-OTAN Badge](https://glamgirlx.com/media/static/NATO-OTAN-small.JPG)
+![USPS](https://glamgirlx.com/media/static/USPS-small.png)
 
 
 
