@@ -124,7 +124,11 @@
 ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge)
 ![X Badge](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge)
 ![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge)
-![NATO-OTAN Badge](https://glamgirlx.com/media/static/NATO-OTAN-small.JPG)
+
+![NASA Badge](https://glamgirlx.com/media/static/NASA-small.png)
+![FBI Badge](https://glamgirlx.com/media/static/FBI-small.svg.png)
+![NATO-OTAN Badge](https://glamgirlx.com/media/static/NATO-OTAN-small.JPu)
+
 
 
 
